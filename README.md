@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
+
+
 <h1 align="center">Hi 👋, I'm Rushimisha Dieudonne</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
-![gif](https://github.com/rushimisha95/rushimisha95/assets/74407061/25d18ac4-d080-45fa-9d20-80b9aeea1260)
+<h3 align="center">A passionate frontend developer from Rwanda</h3
 
-
+![code](https://github.com/rushimisha95/rushimisha95/assets/74407061/7a5388d2-e9a9-490f-b162-f0ef88545f29)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushimisha95&label=Profile%20views&color=0e75b6&style=flat" alt="rushimisha95" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rushimisha95" target="blank"><img src="https://img.shields.io/twitter/follow/rushimisha95?logo=twitter&style=for-the-badge" alt="rushimisha95" /></a> </p>
